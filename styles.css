@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    font-family: "comic sans ms";
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#changer{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    }
+
+#barbados{
+    width: 1000;
+    height: 1000px;
+    margin-top: 50%;
+    margin-left: 50%;
+    background-image: url(images/barbados.jpeg);
+}
+
+#title{
+    font-family: sans-serif;
+    font-size: 40;
+    color: crimson;
+}
+
+h3{
+    color: blue;
+}
+
+.header
+{
+    background-color: lightblue;
+}
+
+.center
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+ul
+{
+    text-align: center;
+    list-style-position: inside;
+}
+
+table, td
+{
+    border: 1px solid black;
+    border-collapse: '';
+}
+
+.container
+{
+    width: 400px;
+    height: 500px;
+}
+
+/* resize images */
+.container img {
+    width: 400%;
+    height: auto;
+}
+
+
+
+
+
+
+/*need a link to this page
+need to use bootstrap
+need 5 CSS selectors: tag(x), class (.x) done!, ID(#x) done!, etc.
+need 5 CSS properties: font size, margins, colour etc.
+
+input Javascript. loops, intervals, dropdown menus, buttons, forms, geolocation
+\*
